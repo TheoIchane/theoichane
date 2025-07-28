@@ -24,7 +24,7 @@ Some of languages i am using: <br>
 
 ## Contacts
 Feel free to contact me ! <br> <br>
-[![Email](https://custom-icon-badges.demolab.com/badge/Email-fff?logo=email-icon)](mailto:ichane.theo@gmail.com)&nbsp;
+[![Email](https://custom-icon-badges.demolab.com/badge/Email-fff?logo=email-icon)](mailto:ichanetheo.pro@gmail.com)&nbsp;
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/theo-ichane-b2a812343/)
 
 
